@@ -12,7 +12,6 @@
 
 ## 👋 About Me
 
-[#about-me](#about-me)
 
 I'm an enthusiastic and detail-oriented **Full Stack Developer (Fresher)** currently pursuing my **MCA Integrated (Master of Computer Applications)** at **AKTU University, Agra** (2021 – 2026, Expected). I have a strong foundation in modern web technologies, built through academic projects and certified industry training.
 
@@ -26,11 +25,9 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ## 🛠️ Tech Stack
 
-[#tech-stack](#tech-stack)
 
 ### Languages
 
-[#languages](#languages)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,mysql&theme=dark" />
@@ -38,7 +35,6 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ### Frontend
 
-[#frontend](#frontend)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
@@ -46,7 +42,6 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ### Backend & Databases
 
-[#backend--databases](#backend--databases)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb&theme=dark" />
@@ -54,7 +49,6 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ### Cloud, DevOps & Tooling
 
-[#cloud-devops--tooling](#cloud-devops--tooling)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" />
@@ -64,7 +58,6 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ## 📊 Skills Overview
 
-[#skills-overview](#skills-overview)
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -79,11 +72,9 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ## 🚀 Featured Projects
 
-[#featured-projects](#featured-projects)
 
 **Chat-Zone — Real-Time Messaging App**
 
-[#chat-zone](#chat-zone)
 
 > Full-stack real-time messaging application supporting text, image, video, and document sharing with live delivery status.
 
@@ -99,7 +90,6 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 **Ticket Manager — IT Support Simulator**
 
-[#ticket-manager](#ticket-manager)
 
 > Browser-based IT helpdesk simulator with ticket creation, categorisation, status tracking, and diagnostic logic.
 
@@ -117,7 +107,6 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ## 💼 Experience
 
-[#experience](#experience)
 
 ### Full Stack Development Trainee — Internshala Trainings
 
@@ -146,7 +135,6 @@ Completed an intensive one-month full stack development programme covering both 
 
 ## 🏆 Achievements
 
-[#achievements](#achievements)
 
 | Recognition | Details |
 |---|---|
@@ -160,7 +148,6 @@ Completed an intensive one-month full stack development programme covering both 
 
 ## 📜 Certifications
 
-[#certifications](#certifications)
 
 **Internshala Trainings**
 
@@ -178,7 +165,6 @@ Completed an intensive one-month full stack development programme covering both 
 
 ## 💻 Coding Profiles
 
-[#coding-profiles](#coding-profiles)
 
 <p align="center">
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -193,7 +179,6 @@ Completed an intensive one-month full stack development programme covering both 
 
 ## 📈 GitHub Analytics
 
-[#github-analytics](#github-analytics)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohdAkilAlam&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
@@ -208,7 +193,6 @@ Completed an intensive one-month full stack development programme covering both 
 
 ## 🏅 GitHub Trophies
 
-[#github-trophies](#github-trophies)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MohdAkilAlam&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" />
@@ -218,7 +202,6 @@ Completed an intensive one-month full stack development programme covering both 
 
 ## 📉 Contribution Activity
 
-[#contribution-activity](#contribution-activity)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAkilAlam&theme=tokyo-night&hide_border=true&area=true" />
@@ -236,7 +219,6 @@ Completed an intensive one-month full stack development programme covering both 
 
 ## 🎯 Current Focus
 
-[#current-focus](#current-focus)
 
 ```yaml
 Learning:
@@ -264,7 +246,6 @@ Open To:
 
 ## 📫 Connect
 
-[#connect](#connect)
 
 <p align="center">
   <a href="mailto:akilalam2244@gmail.com"><img src="https://img.shields.io/badge/Gmail-akilalam2244-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
