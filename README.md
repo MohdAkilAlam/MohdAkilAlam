@@ -110,7 +110,6 @@ Right now, I'm building real-time, production-style applications, sharpening my 
 
 ### Full Stack Development Trainee — Internshala Trainings
 
-[#full-stack-development-trainee--internshala-trainings](#full-stack-development-trainee--internshala-trainings)
 
 `Dec 2025 – Jan 2026`
 
